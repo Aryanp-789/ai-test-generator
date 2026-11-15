@@ -31,7 +31,7 @@ function App() {
 
     try {
       const response = await fetch(
-        "http://localhost:5000/api/generate",
+        "https://ai-test-generator-api-53od.onrender.com/api/generate",
         {
           method: "POST",
           headers: {
