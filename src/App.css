@@ -1,0 +1,12 @@
+
+/* Custom dashboard styles */
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
+
+button {
+  cursor: pointer;
+  font-family: inherit;
+}
